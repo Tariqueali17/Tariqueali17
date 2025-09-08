@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aleetariq82@gmail.com**
 
-- 📄 Know about my experiences [I have hands-on experience in: Setting up and managing AWS infrastructure Building CI/CD pipelines for faster deployments Using Docker & Kubernetes for container orchestration Automating infrastructure with Terraform & Ansible Writing automation scripts in Bash and Python.](I have hands-on experience in: Setting up and managing AWS infrastructure Building CI/CD pipelines for faster deployments Using Docker & Kubernetes for container orchestration Automating infrastructure with Terraform & Ansible Writing automation scripts in Bash and Python.)
+- 📄 Know about my experiences I have hands-on experience in: Setting up and managing AWS infrastructure Building CI/CD pipelines for faster deployments Using Docker & Kubernetes for container orchestration Automating infrastructure with Terraform & Ansible Writing automation scripts in Bash and Python. I have hands-on experience in: Setting up and managing AWS infrastructure Building CI/CD pipelines for faster deployments Using Docker & Kubernetes for container orchestration Automating infrastructure with Terraform & Ansible Writing automation scripts in Bash and Python.
 
 - ⚡ Fun fact **I thrive on solving complex DevOps and Cloud challenges while ensuring systems stay resilient, scalable, and reliable.**
 
