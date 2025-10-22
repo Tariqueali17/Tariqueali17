@@ -22,6 +22,8 @@
   </a>
 </p>
 
+---
+
 ### 🌟 About Me
 <p align="center">
   <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
@@ -87,5 +89,10 @@
 </p>
 
 ---
+
+<!-- 🌊 Animated Wave Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=100&section=footer"/>
+</p>
 
 ⭐ **If you like my work, don’t forget to star my repositories!**
