@@ -25,8 +25,12 @@
 ---
 
 ### 🌟 About Me
+### 🌟 About Me
 <p align="center">
-  <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="DevOps Cloud" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1eTQ5cHBqMWo0aWZhd2N6eDN1MGJ0dHJtZ2dlZ2RrNHBoOTR2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jRf5fsn8G6YaogAWxn/giphy.gif">
+
+
+
 </p>
 
 - 👷 Currently working as a **Volunteer DevOps Engineer**  
@@ -36,6 +40,7 @@
 - 📫 Reach me at **aleetariq82@gmail.com**  
 - ⚙️ I love designing **scalable, resilient cloud architectures**  
 - ⚡ Fun fact: I thrive on solving complex infrastructure challenges with simple, elegant automation.  
+ 
 
 ---
 
